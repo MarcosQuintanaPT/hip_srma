@@ -2,8 +2,8 @@
 ## Analysis and data
 Repo contains all data and analyses for: link to be provided after paper published
 
-'MetaGroin' Data files used in this meta-analysis
+MetaGroin = Dataframe used in this meta-analysis
 
-MetaGroinStudy.R/: Scripts for data cleaning, analysis, and visualization
+MetaGroinStudy.R = Scripts for data cleaning, analysis, and visualization
 
 Please contact marcosquintana99@gmail.com for any issues or questions

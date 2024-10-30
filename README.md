@@ -5,7 +5,7 @@ Repo contains all data and analyses for: link to be provided after paper publish
 > [!IMPORTANT]
 > 📂Files
 >
-> - [MetaGroin.xlsx](https://github.com/MarcosQuintanaPT/hip_srma/blob/main/MetaGroin.xlsx): Contains raw data collected for the study
+> - [MetaGroin.xlsx](https://github.com/MarcosQuintanaPT/hip_srma/blob/main/MetaGroin.xlsx): Contains data used for the meta-analysis
 >
 > - [MetaGroinStudy.R](https://github.com/MarcosQuintanaPT/hip_srma/blob/main/MetaGroinStudy.R): Contains scripts for data cleaning, analysis, and visualization
 

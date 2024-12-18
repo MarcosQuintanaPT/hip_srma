@@ -1,6 +1,6 @@
 # Hip strength and risk of groin pain
 ## Analysis and data
-Repo contains all data and analyses for: link to be provided after paper published
+Repo contains all data and analyses for: https://doi.org/10.1136/bjsports-2024-108836
 
 > [!IMPORTANT]
 > 📂Files
